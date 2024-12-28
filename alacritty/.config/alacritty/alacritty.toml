@@ -43,3 +43,9 @@ bright.magenta = "#C678DD"
 bright.cyan = "#56B6C2"
 bright.white = "#FFFFFF"
 
+[env]
+TERM = "xterm-256color"
+TERM_PROGRAM = "tmux"
+TERM_PROGRAM_VERSION = "3.0" # Adjust to your tmux version
+COLORTERM = "truecolor"
+

@@ -43,3 +43,6 @@ bright.magenta = "#C678DD"
 bright.cyan = "#56B6C2"
 bright.white = "#FFFFFF"
 
+[env]
+TERM = "tmux-256color"
+
